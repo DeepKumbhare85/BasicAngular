@@ -1,5 +1,5 @@
-# Blog
-
+# Basic
+In this app I have implemented basic angular concepts like interpolation,forms,directives like ngIf,ngFor,ngSwitch etc..
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
 
 ## Development server
